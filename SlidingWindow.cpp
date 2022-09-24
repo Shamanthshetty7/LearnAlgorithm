@@ -1,4 +1,4 @@
-/*Finding subarray sum and da perticular subarray which gives 'd' sum
+/*Finding subarray sum and da perticular subarray which gives maximum sum
 -> O(n) time complexity */
 #include <bits/stdc++.h>
 using namespace std;
